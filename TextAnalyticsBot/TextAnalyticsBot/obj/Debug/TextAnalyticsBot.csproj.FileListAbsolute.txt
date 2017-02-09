@@ -1,0 +1,39 @@
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Bot Application1.dll.config
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Bot Application1.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Autofac.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Chronic.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Bot.Builder.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Bot.Connector.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Newtonsoft.Json.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Net.Http.Formatting.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Web.Http.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Web.Http.WebHost.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Autofac.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Bot.Builder.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Bot.Connector.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\Newtonsoft.Json.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Net.Http.Formatting.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Web.Http.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\System.Web.Http.WebHost.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\obj\Debug\TextAnalyticsBot.csprojResolveAssemblyReference.cache
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\obj\Debug\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\TextAnalyticsBot\TextAnalyticsBot\obj\Debug\Bot Application1.pdb

@@ -1,0 +1,39 @@
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Bot Application1.dll.config
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Bot Application1.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Autofac.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Chronic.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Bot.Builder.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Bot.Connector.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Newtonsoft.Json.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Net.Http.Formatting.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Web.Http.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Web.Http.WebHost.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Autofac.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Bot.Builder.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Bot.Connector.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\Newtonsoft.Json.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Net.Http.Formatting.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Web.Http.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\System.Web.Http.WebHost.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\obj\Debug\SignupBot.csprojResolveAssemblyReference.cache
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\obj\Debug\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\SignupBot\SignupBot\obj\Debug\Bot Application1.pdb

@@ -1,0 +1,50 @@
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Bot Application1.dll.config
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Bot Application1.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Autofac.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Chronic.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Bot.Builder.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Bot.Connector.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Newtonsoft.Json.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Net.Http.Formatting.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Web.Http.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Web.Http.WebHost.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Autofac.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Bot.Builder.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.Bot.Connector.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\Newtonsoft.Json.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Net.Http.Formatting.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Web.Http.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\System.Web.Http.WebHost.xml
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\obj\Debug\QandABot.csprojResolveAssemblyReference.cache
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\obj\Debug\Bot Application1.dll
+c:\users\veerecha\documents\visual studio 2015\Projects\QandABot\QandABot\obj\Debug\Bot Application1.pdb
